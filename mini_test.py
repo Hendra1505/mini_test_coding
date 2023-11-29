@@ -1,7 +1,7 @@
 num = list(reversed(range(1, 101)))
 
 for n in num:
-    if n % 3 == 0 & n % 5 == 0:
+    if n % 3 == 0 and n % 5 == 0:
         print('FooBar', end=' ')
     elif n % 3 == 0:
         print('Foo', end=' ')
