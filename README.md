@@ -14,7 +14,7 @@ ScreenShot Result for 2. Menampilkan ramalan cuaca kota Jakarta untuk 5 hari ked
 
 
 # DISC TEST RESULT
-
+(PDF Report tidak bisa di download)
 
 ![Screenshot from 2023-11-29 20-41-43](https://github.com/Hendra1505/mini_test_coding/assets/63607869/6ed386ab-6197-48cd-8b2c-284a4cedd264)
 ![Screenshot from 2023-11-29 20-46-06](https://github.com/Hendra1505/mini_test_coding/assets/63607869/2703de7c-bc07-4c44-9f08-a10510590401)
